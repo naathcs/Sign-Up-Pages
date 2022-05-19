@@ -28,7 +28,6 @@ Users should be able to:
 - Each link is interactive and will send the user to a different link.
 
 ### Screenshot
-*** UPDATE WITH SCREENSHOTS ***
 
 ![Desktop Screenshot - page 1](screenshot/desktop.png)
 ![Desktop Screenshot - page 2](screenshot/desktop2.png)
