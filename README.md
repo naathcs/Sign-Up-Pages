@@ -33,7 +33,7 @@ Users should be able to:
 ![Desktop Screenshot - page 1](screenshot/desktop.png)
 ![Desktop Screenshot - page 2](screenshot/desktop2.png)
 ![Mobile Screenshot - page 1](screenshot/mobile.jpeg)
-![Mobile Screenshot - page 2]()
+![Mobile Screenshot - page 2](screenshot/mobile2.jpeg)
 
 
 ### Links
