@@ -31,7 +31,7 @@ Users should be able to:
 *** UPDATE WITH SCREENSHOTS ***
 
 ![Desktop Screenshot - page 1](screenshot/desktop.png)
-![Desktop Screenshot - page 2]()
+![Desktop Screenshot - page 2](screenshot/desktop2.png)
 ![Mobile Screenshot - page 1](screenshot/mobile.jpeg)
 ![Mobile Screenshot - page 2]()
 
