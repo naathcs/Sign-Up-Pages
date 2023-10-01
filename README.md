@@ -98,5 +98,4 @@ It was interesting and fun to see a project coming to life and working. For this
 
 - Website - [Github](https://github.com/naathcs)
 - LinkedIn - [Nathalia](https://www.linkedin.com/in/naathcs/)
-- Twitter - [@csnaath](https://twitter.com/csnaath)
 - Instagram - [@naath.cs](https://instagram.com/naath.cs)
